@@ -1,13 +1,8 @@
-### Hi there 👋, my name is Alex
+### Hi there 👋, my name is null122
 #### A simple programmer
 ![A simple programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I come from China and am a college student who loves language learning and programming very much
-
-Skills: C / C++ / C# / Lua
-
-- 🔭 I’m currently working on Nothing 
-- ⚡ Fun fact: It's a vegetable chicken 
+Skills: java / go / C# / Python
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/null122)
